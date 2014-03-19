@@ -1,0 +1,21 @@
+[submodule "cubetree"]
+	path = cubetree
+	url = https://github.com/sfiosshared/cubetree.git
+[submodule "employeecentral"]
+	path = employeecentral
+	url = https://github.com/sfiosshared/employeecentral.git
+[submodule "jamui"]
+	path = jamui
+	url = https://github.com/sfiosshared/jamui.git
+[submodule "lms"]
+	path = lms
+	url = https://github.com/sfiosshared/lms.git
+[submodule "reorg"]
+	path = reorg
+	url = https://github.com/sfiosshared/reorg.git
+[submodule "common"]
+	path = common
+	url = https://github.com/sfiosshared/common.git
+[submodule "yc"]
+	path = yc
+	url = https://github.com/sfiosshared/yc.git
